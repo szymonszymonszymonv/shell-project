@@ -1,0 +1,3 @@
+/home/szymcia/CLionProjects/shell-project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/szymcia/CLionProjects/shell-project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/szymcia/CLionProjects/shell-project/cmake-build-debug/CMakeFiles/shell_project.dir
