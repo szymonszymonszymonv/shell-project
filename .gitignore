@@ -98,3 +98,7 @@ fabric.properties
 
 # *.iml
 # modules.xml
+
+# CMAKE
+cmake-build-debug/
+.CMakeLists.txt
