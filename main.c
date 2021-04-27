@@ -307,6 +307,5 @@ int main()
             exec_command(args);
         }
     }
-    printf("WYSZEDLEM POZDRO");
 
 }
